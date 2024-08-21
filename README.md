@@ -1,2 +1,1 @@
-# dev-ops
-lets start with devops
+just read it !
